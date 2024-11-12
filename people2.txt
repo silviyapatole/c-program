@@ -1,0 +1,4 @@
+joy 24
+ram 32
+sham 15
+roy 30
